@@ -1,0 +1,33 @@
+.task-card {
+  /* box model */
+  margin-bottom: 5%;
+  padding: 4%;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+.task-header {
+  /* flexbox */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* text */
+  color: #fff;
+}
+.task-description {
+  /* padding: 2%; */
+  color: #fff;
+}
+.edit-task {
+  display: flex;
+  justify-content: right;
+}
+
+.edit-task button {
+  /* box model */
+  margin: 0 1%;
+  border: none;
+  /* button style */
+  cursor: pointer;
+  color: #fff;
+  background: none;
+}

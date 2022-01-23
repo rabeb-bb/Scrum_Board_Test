@@ -1,0 +1,24 @@
+.appbar {
+  /* font */
+  color: #ffffff;
+  /* box model */
+  padding: 1vh 4vh;
+  min-width: 320px;
+  border-bottom: 0.5px solid #ffffff;
+  /* flexbox */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: thistle; */
+}
+.appbar h2 {
+  margin: 0 3vh;
+}
+.logo {
+  /* box model */
+  margin: 0;
+  /* flexbox */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

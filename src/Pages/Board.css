@@ -1,0 +1,26 @@
+.grid-container {
+  /* box model */
+  margin: 2% 5%;
+  padding: 1%;
+  /* grid */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(186px, 1fr));
+}
+
+.task_stage {
+  /* background-color: rgba(255, 255, 255, 0.9); */
+  /* box model */
+  padding: 20px;
+  margin: 0% 1%;
+  min-height: 500px;
+  /* min-width: 100px; */
+  /* text */
+  font-size: 1em;
+  text-align: left;
+  color: #fff;
+}
+
+.organized-tasks {
+  display: flex;
+  flex-wrap: wrap;
+}
