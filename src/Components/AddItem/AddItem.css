@@ -1,0 +1,27 @@
+.add-card {
+  /* flexbox */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* font */
+  color: #fff;
+}
+
+.add-form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.f-input {
+  /* box model */
+  height: 30px;
+  border-radius: 5px;
+  width: 100%;
+}
+.input-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

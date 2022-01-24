@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#Scrum board app
+
+this is a simple scrum board where you can add tasks to the board and choose your progress status.
+you can edit or delete the tasks.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

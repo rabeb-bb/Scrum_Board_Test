@@ -4,6 +4,8 @@
   padding: 4%;
   border: 1px solid #fff;
   border-radius: 5px;
+  min-width: 380px;
+  max-width: 500px;
 }
 .task-header {
   /* flexbox */
